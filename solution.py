@@ -1,5 +1,4 @@
 from email import header
-from msilib import sequence
 from socket import *
 import os
 import sys
